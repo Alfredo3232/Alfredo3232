@@ -16,4 +16,4 @@ Welcome to my GitHub Page. Take a look of what i've done:
 ### Dive into The Demo 🛠️
 💼 [E-Commerce Website](https://e-commerce-7sly.onrender.com) - Check out my demo website for a E-Commerce, can be repurposed to suit your needs.
 
-Feel free to explore, or even shoot me a message.
+ Take a look at my Stars Page, I have organized lists of my projects. 
