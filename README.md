@@ -2,8 +2,7 @@
 
 ## Full-Stack Web Developer |
 
-Welcome to my GitHub Page. Take a look at my Stars Page, I have organized lists of my projects. 
-Take a quick look at my profiles and projects:
+Welcome to my GitHub Page. Take a quick look at my profiles and projects:
 
 ### Check Out My Portfolio 🌐
 🚀 [Portfolio Website](https://portfolio-website-v2-7909b.firebaseapp.com/) - See my latest projects and drop me a message!
@@ -16,3 +15,5 @@ Take a quick look at my profiles and projects:
 
 ### Dive into The Demo 🛠️
 💼 [E-Commerce Website](https://e-commerce-7sly.onrender.com) - Check out my demo website for a E-Commerce, can be repurposed to suit your needs.
+
+## Take a look at my Stars Page, I have organized lists of my projects. 
