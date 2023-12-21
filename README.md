@@ -1,6 +1,6 @@
 # Hey, I'm Alfredo! 👋
 
-## Full-Stack Web Developer |
+## Full-Stack Web Developer
 
 Welcome to my GitHub Page. Take a quick look at my profiles and projects:
 
