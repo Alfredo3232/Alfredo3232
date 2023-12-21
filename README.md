@@ -10,9 +10,9 @@ Welcome to my GitHub Page. Take a quick look at my profiles and projects:
 ### CodeWars Profile 🧠
 🎮 [CodeWars Profile](https://www.codewars.com/users/Alfredo3232) - Solving coding problems and sharpening my skills.
 
-### FreeCodeCamp Profile
+### FreeCodeCamp Profile 🌐
 
-[FreeCodeCamp Profile](https://www.freecodecamp.org/Alfredo3232) - Learning Web Development.
+📔 [FreeCodeCamp Profile](https://www.freecodecamp.org/Alfredo3232) - Learning Web Development.
 
 ### Let's Connect! 🤝
 🔗 [LinkedIn](https://www.linkedin.com/in/alfredor1/) - Contact me for Job offerings or any kind of collaboration.
