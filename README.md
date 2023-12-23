@@ -21,4 +21,4 @@ Welcome to my GitHub Page. Take a quick look at my profiles and projects:
 💼 [E-Commerce Website](https://e-commerce-7sly.onrender.com) - Check out my demo website for a E-Commerce, can be repurposed to suit your needs.
 #### NOTE: It takes a little while to start the service, since I use Render to host my website.
 
-### Take a look at my Stars Page, I have organized lists of my projects. 
+### 👉 Take a look at my 🌟Stars Page, I have organized lists of my projects. 
